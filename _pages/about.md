@@ -26,7 +26,7 @@ My research interest includes:
 *Mar. 2019 - Feb. 2024*
 
 
-## Publisehd Papers
+## Published Papers
 
 - <a href="https://openaccess.thecvf.com/content/WACV2023W/DNOW/html/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.html">**Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild**</a> \\
 Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, <u>Sungwoo Cho</u> (\*: equal contribution) \\
