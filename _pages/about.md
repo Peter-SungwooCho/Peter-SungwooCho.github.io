@@ -35,10 +35,10 @@ Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, <u>Sungwoo Cho</u> (\*: equal cont
 
 ## Preprints
 
-<!-- - **Post-Training Recovery from Injected Bias with Self-Influence**\\
-Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-Yub Kim</u> and Eunho Yang (\*: equal contribution)
+- **Do Out-of-Distribution Detectors Robust for Low-Level Features of Images?**\\
+<u>Sungwoo Cho</u>, Kyung Ho Park
 
-- <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
+<!-- - <a href="https://openreview.net/forum?id=Mvf5zr2qs6">
 **Bias Decay Matters: Improving Large Batch Optimization with Connectivity Sharpness** 
 </a> \\
 <u>Sung-Yub Kim</u>, Sihwan Park, Yong-Deok Kim, Eunho Yang
@@ -52,3 +52,6 @@ Jaeyun Song* and Yeonsung Jung* and June Yong Yang* and Jin-Hwa Kim and <u>Sung-
 
 - Integrated prediction model using pattern extraction and pattern of tire image and code data \\
 **Hankook Tire**, *2022/08-2023/03*
+
+- Weakly-Supervised Object Detector(Vehicle damage detection project) \\
+**SOCAR AI Team**, *2022/03-2022/07*
