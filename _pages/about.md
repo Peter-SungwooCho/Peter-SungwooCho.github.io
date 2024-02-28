@@ -12,7 +12,7 @@ redirect_from:
 I'm a Master student at <a href="https://osi.kaist.ac.kr">**Optimization and Statistical Inference Lab**</a> in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of <a href="https://fbsqkd.github.io">**Prof. SE-YOUNG YUN**</a>.
 
 My research interest includes:
-- Not yet
+- CV, Continual Learning, Pseudo-Labeling
 
 
 ## Education
