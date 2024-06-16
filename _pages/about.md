@@ -29,8 +29,8 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉 One paper is submit into Neurips 2024
+- *2022.02*: &nbsp;🎉🎉 One paper is accepted at WACV’23 
 
 # 📝 Publications 
 
@@ -45,6 +45,10 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 
 Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
 
+[FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
+
+Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
+
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -57,12 +61,13 @@ Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contributi
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.03 - 2026.02 (now)*, Integrated Student (MS/PhD). in AI. GSAI KAIST.
+- *2019.02 - 2024.02*, B.E. in Electronic and Electrical Engineering. KAIST.
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2022.02 - 2022.07*, [SOCAR](https://www.socar.kr), South Korea.
+# 💻 Research Experiences
+- *2022.08 - 2023.09*, Research Intern, [MLILAB](https://mli.kaist.ac.kr), KAIST, South Korea.
+- *2022.02 - 2022.07*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), South Korea.
