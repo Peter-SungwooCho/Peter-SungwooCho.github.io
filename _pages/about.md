@@ -49,17 +49,17 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 </div>
 
 # 📝 Project
-- *2022.08 - 2023.09*, AI-based car wash request efficiency Check the robustness of the large classification model, SOCAR AI team
- - Development of deep learning-based car wash certification automation model([url](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html))
-
-- *2022.04 - 2022.06*, Weakly-Supervised Object Detector(Vehicle damage detection project), SOCAR AI team
-  -	Weakly supervised application to vehicle rental photo data
-
 - *2022.08 - 2023.03*, Hankook Tire, Integrated prediction model using pattern extraction and pattern of tire image and code data, MLILAB
   - Complex modeling of tabular data and pattern embedding
 
 - *2022.08 - 2022.12*, EE488, DCASE 2020 Challenge(grade : A+)
   - Anomaly detection challenge of sound data
+
+- *2022.02 - 2022.04*, AI-based car wash request efficiency Check the robustness of the large classification model, SOCAR AI team
+ - Development of deep learning-based car wash certification automation model([url](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html))
+
+- *2022.04 - 2022.06*, Weakly-Supervised Object Detector(Vehicle damage detection project), SOCAR AI team
+  -	Weakly supervised application to vehicle rental photo data
 
 
 
