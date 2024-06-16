@@ -37,20 +37,20 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-[Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
-
-Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+- [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
+  - Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
+- [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
+  - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
+</div>
+</div>
 
-Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
+-----
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -58,6 +58,8 @@ Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Yo
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+-----
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
