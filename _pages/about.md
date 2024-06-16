@@ -28,7 +28,11 @@ Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
 
 # 🔥 News
 - *2024.05*: &nbsp;🎉 One paper is submit into Neurips'24
-- *2022.02*: &nbsp;🎉🎉 One paper is accepted at WACV’23 
+- *2024.03*: &nbsp;🎉 Join Integrated Student of OSILAB, KAIST
+- *2024.02*: &nbsp;🎉 Graduated BS, KAIST
+- *2024.08*: &nbsp;🎉 Join Research Intern of MLILAB, KAIST
+- *2022.08*: &nbsp;🎉🎉 One paper is accepted at WACV’23
+- *2022.02*: &nbsp;🎉 Join SOCAR AI team, Applied Scientist 
 
 # 📝 Publications 
 
