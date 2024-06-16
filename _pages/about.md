@@ -87,7 +87,7 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 - *2021.12 - 2022.01*, Research Student, [ALIN-LAB](https://alinlab.kaist.ac.kr/shin.html), KAIST, South Korea.
 
 # 💬 Other Works
--	*2021.07 - 2022.03*, Founding Member at military community application, GUNINNI
+- *2021.07 - 2022.03*, Founding Member at military community application, GUNINNI
   - Anonymous community app for soldiers
   - UI design manager
   - Responsible for business plan for start-up support
