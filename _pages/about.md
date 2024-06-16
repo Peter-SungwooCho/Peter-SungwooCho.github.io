@@ -29,12 +29,12 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉 One paper is submit into Neurips 2024
+- *2024.05*: &nbsp;🎉 One paper is submit into Neurips'24
 - *2022.02*: &nbsp;🎉🎉 One paper is accepted at WACV’23 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,6 +44,9 @@ Multi-Modal, Audio-Visual Learning, AVSR, CV
 [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
 
 Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
 
