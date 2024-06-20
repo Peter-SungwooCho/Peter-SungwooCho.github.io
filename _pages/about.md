@@ -40,7 +40,7 @@ Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
-  - Hyunhee Chung*, Kyung Ho Park*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+  - Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
 </div>
 </div>
 
