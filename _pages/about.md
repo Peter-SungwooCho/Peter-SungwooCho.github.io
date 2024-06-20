@@ -87,7 +87,7 @@ Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
 
 # 💻 Research Experiences
 - *2022.08 - 2023.09*, Research Intern, [MLILAB](https://mli.kaist.ac.kr), KAIST, South Korea.
-- *2022.02 - 2022.07*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), South Korea.
+- *2022.02 - 2022.08*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), South Korea.
 - *2021.12 - 2022.01*, Research Student, [ALIN-LAB](https://alinlab.kaist.ac.kr/shin.html), KAIST, South Korea.
 
 # 💬 Other Works
