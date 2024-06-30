@@ -27,16 +27,17 @@ Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
 - *2024.05*: &nbsp;🎉 One paper is submit into Neurips'24
 - *2024.03*: &nbsp;🎉 Join Integrated Student of OSILAB, KAIST
-- *2024.02*: &nbsp;🎉 Graduated BS, KAIST
+- *2024.02*: &nbsp;🎓 Graduated BS, KAIST
 - *2024.08*: &nbsp;🎉 Join Research Intern of MLILAB, KAIST
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted at WACV’23
 - *2022.02*: &nbsp;🎉 Join SOCAR AI team, Applied Scientist 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/WACV22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
@@ -44,7 +45,7 @@ Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop(FedKDD) 2024</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
