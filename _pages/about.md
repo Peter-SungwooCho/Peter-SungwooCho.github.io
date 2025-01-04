@@ -112,7 +112,8 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='others'></span>
 # 💬 Other Works
-- *2024.12*, KAIST-KIST-Inria Workshop Student Organizer
+
+- *2024.12*, [KAIST-KIST-Inria Workshop](https://sondages.inria.fr/index.php/976673) Student Organizer
   - French-Korean Workshop on AI, Networks and Communication, Programming Languages and Applied Mathematics
 
 - *2021.07 - 2022.03*, Founding Member at military community application, GUNINNI
