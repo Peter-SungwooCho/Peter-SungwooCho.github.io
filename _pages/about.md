@@ -100,8 +100,8 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 - *2019.02 - 2024.02*, B.E. in Electronic and Electrical Engineering. KAIST.
 
 <span class='anchor' id='teaching'></span>
-# 👨🏻‍🏫 Teacher Assistant
-- *2024 Fall*, KAIST AI707 Advanced Topics in Deep Reinforcement Learning.
+# 👨🏻‍🏫 Teaching Assistant
+- KAIST AI707 Advanced Topics in Deep Reinforcement Learning, *2024 Fall*
 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experiences
