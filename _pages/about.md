@@ -63,6 +63,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
+<span class='anchor' id='projects'></span>
 # 📝 Projects
 - *2024.03 - 2024.12*, ETRI, On-device Federated Learning , OSILAB
   - Development of adaptive lightweight edge-interconnected analysis technology with active instant response and rapid learning capability
