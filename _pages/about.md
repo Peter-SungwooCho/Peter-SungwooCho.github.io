@@ -39,7 +39,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Underreview</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
