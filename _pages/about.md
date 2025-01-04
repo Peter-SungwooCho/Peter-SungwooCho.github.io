@@ -41,7 +41,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
-  - Sungnyun Kim, **Sungwoo Cho**, Sangmin Bae, Kangwook Jang, Se-Young Yun
+  - Sungnyun Kim\*, **Sungwoo Cho**\*, Sangmin Bae, Kangwook Jang, Se-Young Yun
 </div>
 </div> 
 
@@ -62,17 +62,20 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 </div>
 
 # 📝 Project
+- *2024.03 - 2024.12*, ETRI, On-device Federated Learning , OSILAB
+  - Development of adaptive lightweight edge-interconnected analysis technology with active instant response and rapid learning capability
+
 - *2022.08 - 2023.03*, Hankook Tire, Integrated prediction model using pattern extraction and pattern of tire image and code data, MLILAB
   - Complex modeling of tabular data and pattern embedding
 
 - *2022.08 - 2022.12*, EE488, DCASE 2020 Challenge(grade : A+)
   - Anomaly detection challenge of sound data
+  
+- *2022.04 - 2022.06*, Weakly-Supervised Object Detector(Vehicle damage detection project), SOCAR AI team
+  -	Weakly supervised application to vehicle rental photo data
 
 - *2022.02 - 2022.04*, AI-based car wash request efficiency Check the robustness of the large classification model, SOCAR AI team
  - Development of deep learning-based car wash certification automation model([url](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html))
-
-- *2022.04 - 2022.06*, Weakly-Supervised Object Detector(Vehicle damage detection project), SOCAR AI team
-  -	Weakly supervised application to vehicle rental photo data
 
 
 
@@ -93,6 +96,8 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 - *2024.03 - 2026.02 (now)*, Integrated Student (MS/PhD) in OSILAB. GSAI. KAIST.
 - *2019.02 - 2024.02*, B.E. in Electronic and Electrical Engineering. KAIST.
 
+# 👨🏻‍🏫 Teacher Assistant
+- *2024 Fall*, KAIST AI707 Advanced Topics in Deep Reinforcement Learning.
 
 # 💻 Research Experiences
 - *2022.08 - 2023.09*, Research Intern, [MLILAB](https://mli.kaist.ac.kr), KAIST, South Korea.
@@ -100,6 +105,9 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 - *2021.12 - 2022.01*, Research Student, [ALIN-LAB](https://alinlab.kaist.ac.kr/shin.html), KAIST, South Korea.
 
 # 💬 Other Works
+- *2024.12*, KAIST-KIST-Inria Workshop Student Organizer
+  - French-Korean Workshop on AI, Networks and Communication, Programming Languages and Applied Mathematics
+
 - *2021.07 - 2022.03*, Founding Member at military community application, GUNINNI
   - Anonymous community app for soldiers
   - UI design manager
