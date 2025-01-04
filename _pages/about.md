@@ -21,35 +21,43 @@ I'm an Integrated student at [Optimization and Statistical Inference Lab](https:
 
 My research interest includes:
 
-Multi-Modal, Audio-Visual Learning🎧, AVSR, CV
+Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25
 - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
-- *2024.05*: &nbsp;🎉 One paper is submit into Neurips'24
 - *2024.03*: &nbsp;🎉 Join MS/PhD Integrated Student of OSILAB, KAIST
 - *2024.02*: &nbsp;🎓 Graduated BS, KAIST
 - *2024.08*: &nbsp;🎉 Join Research Intern of MLILAB, KAIST
-- *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23
+- *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop
 - *2022.02*: &nbsp;🎉 Join SOCAR AI team, Applied Scientist 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/WACV22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
-  - Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+- [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
+  - Sungnyun Kim, **Sungwoo Cho**, Sangmin Bae, Kangwook Jang, Se-Young Yun
 </div>
-</div>
+</div> 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop(FedKDD) 2024</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
   - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2023</div><img src='images/WACV23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Phantom of Benchmark Dataset: Resolving Label Ambiguity Problem on Image Recognition in the Wild](https://openaccess.thecvf.com/content/WACV2023W/DNOW/papers/Chung_Phantom_of_Benchmark_Dataset_Resolving_Label_Ambiguity_Problem_on_Image_WACVW_2023_paper.pdf)
+  - Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
 </div>
 </div>
 
