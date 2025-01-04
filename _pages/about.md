@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an Integrated student at [Optimization and Statistical Inference Lab](https://osi.kaist.ac.kr) in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of [Prof. SE-YOUNG YUN](https://fbsqkd.github.io).
+I'm an Integrated student at [Optimization and Statistical Inference Lab](https://osi.kaist.ac.kr) in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of [Prof. SEYOUNG YUN](https://fbsqkd.github.io). I'm self-motivated student and love to solve many fun problems related to speech in real world setting.
 
 My research interest includes:
 
@@ -26,6 +26,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25
 - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
@@ -35,13 +36,14 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 - *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop
 - *2022.02*: &nbsp;🎉 Join SOCAR AI team, Applied Scientist 
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
-  - Sungnyun Kim\*, **Sungwoo Cho**\*, Sangmin Bae, Kangwook Jang, Se-Young Yun
+  - Sungnyun Kim\*, **Sungwoo Cho**\*, Sangmin Bae, Kangwook Jang, Seyoung Yun (*: equal contribution)
 </div>
 </div> 
 
@@ -49,7 +51,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
-  - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
+  - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Seyoung Yun
 </div>
 </div>
 
@@ -61,7 +63,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-# 📝 Project
+# 📝 Projects
 - *2024.03 - 2024.12*, ETRI, On-device Federated Learning , OSILAB
   - Development of adaptive lightweight edge-interconnected analysis technology with active instant response and rapid learning capability
 
@@ -92,18 +94,22 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2024.03 - 2026.02 (now)*, Integrated Student (MS/PhD) in OSILAB. GSAI. KAIST.
 - *2019.02 - 2024.02*, B.E. in Electronic and Electrical Engineering. KAIST.
 
+<span class='anchor' id='teaching'></span>
 # 👨🏻‍🏫 Teacher Assistant
 - *2024 Fall*, KAIST AI707 Advanced Topics in Deep Reinforcement Learning.
 
+<span class='anchor' id='experiences'></span>
 # 💻 Research Experiences
 - *2022.08 - 2023.09*, Research Intern, [MLILAB](https://mli.kaist.ac.kr), KAIST, South Korea.
 - *2022.02 - 2022.08*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), South Korea.
 - *2021.12 - 2022.01*, Research Student, [ALIN-LAB](https://alinlab.kaist.ac.kr/shin.html), KAIST, South Korea.
 
+<span class='anchor' id='others'></span>
 # 💬 Other Works
 - *2024.12*, KAIST-KIST-Inria Workshop Student Organizer
   - French-Korean Workshop on AI, Networks and Communication, Programming Languages and Applied Mathematics
