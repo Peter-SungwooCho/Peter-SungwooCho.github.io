@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -28,24 +28,25 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
 - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25
 - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
 - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST
-- *2024.02*: &nbsp;🎓 Graduated BS, KAIST
+<!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST
 - *2024.08*: &nbsp;💼 Join Research Intern of MLILAB, KAIST
 - *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop
-- *2022.02*: &nbsp;💼 Join SOCAR AI team, Applied Scientist 
+- *2022.02*: &nbsp;💼 Join SOCAR AI team, Applied Scientist -->
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025 Underreview</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
   - Sungnyun Kim\*, **Sungwoo Cho**\*, Sangmin Bae, Kangwook Jang, Seyoung Yun (*: equal contribution)
 </div>
-</div> 
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop(FedKDD) 2024</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,7 +74,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 - *2022.08 - 2022.12*, EE488, DCASE 2020 Challenge(grade : A+)
   - Anomaly detection challenge of sound data
-  
+
 - *2022.04 - 2022.06*, Weakly-Supervised Object Detector(Vehicle damage detection project), SOCAR AI team
   -	Weakly supervised application to vehicle rental photo data
 
@@ -84,7 +85,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div>
 
@@ -92,7 +93,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 
 <!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <span class='anchor' id='educations'></span>
@@ -128,5 +129,5 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
