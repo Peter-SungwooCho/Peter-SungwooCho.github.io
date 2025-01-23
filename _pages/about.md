@@ -32,10 +32,10 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
 - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
 - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST
-<!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST
-- *2024.08*: &nbsp;💼 Join Research Intern of MLILAB, KAIST
-- *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop
-- *2022.02*: &nbsp;💼 Join SOCAR AI team, Applied Scientist -->
+<!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST -->
+<!-- - *2024.08*: &nbsp;💼 Join Research Intern of MLILAB, KAIST -->
+<!-- - *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop -->
+<!-- - *2022.02*: &nbsp;💼 Join SOCAR AI team, Applied Scientist -->
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications
