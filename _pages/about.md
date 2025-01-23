@@ -79,7 +79,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
   -	Weakly supervised application to vehicle rental photo data
 
 - *2022.02 - 2022.04*, AI-based car wash request efficiency Check the robustness of the large classification model, SOCAR AI team
- - Development of deep learning-based car wash certification automation model([url](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html))
+  - Development of deep learning-based car wash certification automation model([url](https://tech.socarcorp.kr/data/2022/04/18/develop-model-classifying-washed-car.html))
 
 
 
