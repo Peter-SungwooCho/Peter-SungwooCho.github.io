@@ -29,7 +29,7 @@ Speech, TTS, Audio-Visual Learning🎧, AVSR, CV
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
-- *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25
+<!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
 - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
 - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST
 <!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST
