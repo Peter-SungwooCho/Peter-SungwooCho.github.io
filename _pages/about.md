@@ -32,8 +32,8 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 - *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR
 - *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
-<!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
-- *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST -->
+<!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD -->
+<!-- - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST -->
 <!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST -->
 <!-- - *2024.08*: &nbsp;💼 Join Research Intern of MLILAB, KAIST -->
 <!-- - *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop -->
@@ -42,7 +42,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mavflow_a.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation](https://arxiv.org/abs/2503.11026)
@@ -50,7 +50,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mohave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://arxiv.org/pdf/2502.10447)
