@@ -66,7 +66,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD Workshop(FedKDD) 2024</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
