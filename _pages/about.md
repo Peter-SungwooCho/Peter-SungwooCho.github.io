@@ -28,10 +28,12 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.03*: &nbsp;👀 Two papers have been archived on arXiv
+- *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR
 - *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
-- *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
-- *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST
+<!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD
+- *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST -->
 <!-- - *2024.02*: &nbsp;🎓 Graduated BS, KAIST -->
 <!-- - *2024.08*: &nbsp;💼 Join Research Intern of MLILAB, KAIST -->
 <!-- - *2022.08*: &nbsp;🎉🎉 One paper is accept at WACV’23 Workshop -->
@@ -40,11 +42,27 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <span class='anchor' id='publications'></span>
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation](https://arxiv.org/abs/2503.11026)
+  - **Sungwoo Cho**, Jeongsoo Choi, Sungnyun Kim, Seyoung Yun
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://arxiv.org/pdf/2502.10447)
+  - Sungnyun Kim, Kangwook Jang, Sangmin Bae, **Sungwoo Cho**, Seyoung Yun
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation.](https://openreview.net/pdf?id=WEQL5ksDnB)
-  - Sungnyun Kim\*, **Sungwoo Cho**\*, Sangmin Bae, Kangwook Jang, Seyoung Yun (*: equal contribution)
+- [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation](https://openreview.net/pdf?id=WEQL5ksDnB)
+  - Sungnyun Kim, **Sungwoo Cho**, Sangmin Bae, Kangwook Jang, Seyoung Yun
 </div>
 </div>
 
