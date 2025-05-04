@@ -28,8 +28,9 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
 - *2025.03*: &nbsp;👀 Two papers have been archived on arXiv
-- *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR
+- *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR'25
 - *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
 <!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD -->
@@ -50,7 +51,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mohave.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/mohave.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://arxiv.org/pdf/2502.10447)
@@ -66,7 +67,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR 2025</div><img src='images/feddr+.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
