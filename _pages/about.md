@@ -28,10 +28,10 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accept at ICCV'25 see you in Hawaii 🇺🇸
 - *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
-- *2025.03*: &nbsp;👀 Two papers have been archived on arXiv
 - *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR'25
-- *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25
+- *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25 see you in Singapore 🇸🇬
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
 <!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD -->
 <!-- - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST -->
@@ -41,13 +41,13 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <!-- - *2022.02*: &nbsp;💼 Join SOCAR AI team, Applied Scientist -->
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications
+# 🔔 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/mavflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mavflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [MAVFlow: Preserving Paralinguistic Elements with Conditional Flow Matching for Zero-Shot AV2AV Multilingual Translation](https://arxiv.org/abs/2503.11026)
-  - **Sungwoo Cho**, Jeongsoo Choi, Sungnyun Kim, Seyoung Yun
+  - **Sungwoo Cho**, Jeongsoo Choi, Sungnyun Kim, Se-Young Yun
 </div>
 </div>
 
@@ -55,7 +55,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [MoHAVE: Mixture of Hierarchical Audio-Visual Experts for Robust Speech Recognition](https://arxiv.org/pdf/2502.10447)
-  - Sungnyun Kim, Kangwook Jang, Sangmin Bae, **Sungwoo Cho**, Seyoung Yun
+  - Sungnyun Kim, Kangwook Jang, Sangmin Bae, **Sungwoo Cho**, Se-Young Yun
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [Multi-Task Corrupted Prediction for Learning Robust Audio-Visual Speech Representation](https://openreview.net/pdf?id=WEQL5ksDnB)
-  - Sungnyun Kim, **Sungwoo Cho**, Sangmin Bae, Kangwook Jang, Seyoung Yun
+  - Sungnyun Kim, **Sungwoo Cho**, Sangmin Bae, Kangwook Jang, Se-Young Yun
 </div>
 </div>
 
@@ -71,7 +71,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <div class='paper-box-text' markdown="1">
 
 - [FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning](https://arxiv.org/pdf/2406.02355)
-  - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Seyoung Yun
+  - Seongyoon Kim, Minchan Jeong, Sungnyun Kim, **Sungwoo Cho**, Sumyeong Ahn, Se-Young Yun
 </div>
 </div>
 
@@ -82,6 +82,17 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
   - Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
 </div>
 </div>
+
+<span class='anchor' id='preprint'></span>
+# 📄 Preprint
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/flex_judge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Flex-Judge: Think Once, Judge Anywhere](https://arxiv.org/abs/2505.18601)
+  - Jongwoo Ko\*, Sungnyun Kim\*, **Sungwoo Cho**, Se-Young Yun (*: equal contribution)
+</div>
+</div>
+
 
 <span class='anchor' id='projects'></span>
 # 📝 Projects
