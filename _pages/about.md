@@ -28,6 +28,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accept at NeurIPS'25
 - *2025.06*: &nbsp;🎉🎉 One paper is accept at ICCV'25 see you in Hawaii 🇺🇸
 - *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
 - *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR'25
@@ -42,6 +43,13 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='publications'></span>
 # 🔔 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/flex_judge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- [Flex-Judge: Think Once, Judge Anywhere](https://arxiv.org/abs/2505.18601)
+  - Jongwoo Ko\*, Sungnyun Kim\*, **Sungwoo Cho**, Se-Young Yun (*: equal contribution)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/mavflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,14 +93,8 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='preprints'></span>
 # 📄 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/flex_judge.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-- [Flex-Judge: Think Once, Judge Anywhere](https://arxiv.org/abs/2505.18601)
-  - Jongwoo Ko\*, Sungnyun Kim\*, **Sungwoo Cho**, Se-Young Yun (*: equal contribution)
-</div>
-</div>
-
+- See u soon!
 
 <span class='anchor' id='projects'></span>
 # 📝 Projects
