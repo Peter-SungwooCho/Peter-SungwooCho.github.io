@@ -28,7 +28,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.11*: &nbsp;💼 Join Krafton AI for internship (TTS/STT)
+- *2025.11*: &nbsp;💼 Join Internship at KRAFTON AI
 - *2025.09*: &nbsp;🎉🎉 One paper is accept at NeurIPS'25
 - *2025.06*: &nbsp;🎉🎉 One paper is accept at ICCV'25 see you in Hawaii 🇺🇸
 - *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
@@ -140,8 +140,9 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='experiences'></span>
 # 💻 Research Experiences
+- *2025.11 - Present*, Deep Learning Research Engineer Intern, [KRAFTON AI](https://www.krafton.ai/ko/), Seoul, South Korea.
 - *2022.08 - 2023.09*, Research Intern, [MLILAB](https://mli.kaist.ac.kr), KAIST, South Korea.
-- *2022.02 - 2022.08*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), South Korea.
+- *2022.02 - 2022.08*, Applied Scientist Intern, [SOCAR](https://www.socar.kr), Seoul, South Korea.
 - *2021.12 - 2022.01*, Research Student, [ALIN-LAB](https://alinlab.kaist.ac.kr/shin.html), KAIST, South Korea.
 
 <span class='anchor' id='others'></span>
