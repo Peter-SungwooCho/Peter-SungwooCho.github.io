@@ -94,8 +94,14 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='preprints'></span>
 # 📄 Preprints
-
-- See u soon!
+<!-- - See u soon! -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dualhyp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Two Heads Are Better Than One: Audio-Visual Speech Error Correction with Dual Hypotheses](https://arxiv.org/abs/2510.13281)
+  - Hyunhee Chung\*, Kyung Ho Park\*, Taewon Seo, **Sungwoo Cho** (*: equal contribution)
+  - Sungnyun Kim\*, Kangwook Jang\*, **Sungwoo Cho**, Joon Son Chung, Hoirin Kim, Se-Young Yun
+</div>
+</div>
 
 <span class='anchor' id='projects'></span>
 # 📝 Projects
