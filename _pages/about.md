@@ -28,6 +28,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.11*: &nbsp;💼 Join Krafton AI for internship (TTS/STT)
 - *2025.09*: &nbsp;🎉🎉 One paper is accept at NeurIPS'25
 - *2025.06*: &nbsp;🎉🎉 One paper is accept at ICCV'25 see you in Hawaii 🇺🇸
 - *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
