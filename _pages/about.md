@@ -31,6 +31,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 <span class='anchor' id='news'></span>
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper is accept at ACL'26
+- *2026.04*: &nbsp;🎉🎉 SpeechLM & Full-Duplex Speech Foundation model is out from KRAFTON!
 - *2025.12*: &nbsp;🏆 1st Place Award at speech enhancement challenge (AIFC 2025)
 - *2025.11*: &nbsp;💼 Join Internship at KRAFTON AI
 - *2025.09*: &nbsp;🎉🎉 One paper is accept at NeurIPS'25
