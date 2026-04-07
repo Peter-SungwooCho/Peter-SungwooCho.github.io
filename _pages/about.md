@@ -19,6 +19,8 @@ redirect_from:
 
 I'm an Integrated student at [Optimization and Statistical Inference Lab](https://osi.kaist.ac.kr) in Korea Advanced Institute of Science and Technology (KAIST), under the supervision of [Prof. SEYOUNG YUN](https://fbsqkd.github.io). I'm self-motivated student and love to solve many fun problems related to speech in real world setting.
 
+I am currently working as a research intern at <span style="color:#FF6A00;">KRAFTON</span>, and I will be joining <span style="color:#0866FF;">Meta Reality Labs</span> as a Research Scientist Intern in Summer 2026.
+
 My research interest includes:
 
 Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
