@@ -28,12 +28,14 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accept at ACL'26
+- *2025.12*: &nbsp;🏆 1st Place Award at speech enhancement challenge (AIFC 2025)
 - *2025.11*: &nbsp;💼 Join Internship at KRAFTON AI
 - *2025.09*: &nbsp;🎉🎉 One paper is accept at NeurIPS'25
 - *2025.06*: &nbsp;🎉🎉 One paper is accept at ICCV'25 see you in Hawaii 🇺🇸
 - *2025.05*: &nbsp;🎉🎉 One paper is accept at ICML'25
-- *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR'25
-- *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25 see you in Singapore 🇸🇬
+<!-- - *2025.03*: &nbsp;🎉🎉 One paper is accept at TMLR'25 -->
+<!-- - *2025.01*: &nbsp;🎉🎉 One paper is accept at ICLR'25 see you in Singapore 🇸🇬 -->
 <!-- - *2024.10*: &nbsp;🎉 One paper is submit into ICLR'25 -->
 <!-- - *2024.06*: &nbsp;🎉🎉 One paper is accept at KDD Workshop'24, FedKDD -->
 <!-- - *2024.03*: &nbsp;💼 Join MS/PhD Integrated Student of OSILAB, KAIST -->
@@ -44,6 +46,14 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='publications'></span>
 # 🔔 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Findings of ACL 2026</div><img src='images/dualhyp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Two Heads Are Better Than One: Audio-Visual Speech Error Correction with Dual Hypotheses](https://arxiv.org/abs/2510.13281)
+  - Sungnyun Kim\*, Kangwook Jang\*, **Sungwoo Cho**, Joon Son Chung, Hoirin Kim, Se-Young Yun (*: equal contribution)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/flex_judge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,13 +104,7 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 
 <span class='anchor' id='preprints'></span>
 # 📄 Preprints
-<!-- - See u soon! -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/dualhyp.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-- [Two Heads Are Better Than One: Audio-Visual Speech Error Correction with Dual Hypotheses](https://arxiv.org/abs/2510.13281)
-  - Sungnyun Kim\*, Kangwook Jang\*, **Sungwoo Cho**, Joon Son Chung, Hoirin Kim, Se-Young Yun (*: equal contribution)
-</div>
-</div>
+- See u soon!
 
 <span class='anchor' id='projects'></span>
 # 📝 Projects
@@ -130,9 +134,8 @@ Speech, TTS, Audio-Visual Generation, Audio-Visual Learning🎧, AVSR, CV
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.12* 1st Place Award at speech enhancement challenge (AIFC 2025)
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
